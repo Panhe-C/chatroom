@@ -1,0 +1,44 @@
+三月 04, 2019 7:28:10 下午 org.apache.catalina.core.AprLifecycleListener init
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\Java\JDK\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Program Files (x86)\basler\Pylon\Runtime\Win32\;E:\Program Files (x86)\basler\Pylon\Runtime\x64\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;E:\Program Files (x86)\Git\cmd;E:\Java\JDK\bin;";E:\Java\JDK\jre\bin";E:\Program Files (x86)\python\Scripts;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;E:\opencv\my_Build\install\x64\vc15\bin;E:\Program Files (x86)\python\Scripts;E:\Program Files (x86)\visualStudio\Shared\Anaconda3_64\Scripts;E:\Program Files (x86)\python3.7\Scripts\;E:\Program Files (x86)\python3.7\;C:\Users\98335\AppData\Local\Microsoft\WindowsApps;E:\Program Files (x86)\python\Scripts;E:\opencv\my_build\install\x64\vc15\bin;;E:\Program Files (x86)\Microsoft VS Code\bin;.
+三月 04, 2019 7:28:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 7:28:12 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 7:28:12 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 2244 ms
+三月 04, 2019 7:28:12 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 7:28:12 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.42
+三月 04, 2019 7:28:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory G:\BaiduNetdiskDownload\JavaWeb视频教程\传智播客_超全面的JavaWeb视频教程-源码笔记\JavaWeb视频教程_day8-资料源码\day08_res\tomcat\apache-tomcat-7.0.42\webapps\docs
+三月 04, 2019 7:28:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory G:\BaiduNetdiskDownload\JavaWeb视频教程\传智播客_超全面的JavaWeb视频教程-源码笔记\JavaWeb视频教程_day8-资料源码\day08_res\tomcat\apache-tomcat-7.0.42\webapps\examples
+三月 04, 2019 7:28:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory G:\BaiduNetdiskDownload\JavaWeb视频教程\传智播客_超全面的JavaWeb视频教程-源码笔记\JavaWeb视频教程_day8-资料源码\day08_res\tomcat\apache-tomcat-7.0.42\webapps\host-manager
+三月 04, 2019 7:28:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory G:\BaiduNetdiskDownload\JavaWeb视频教程\传智播客_超全面的JavaWeb视频教程-源码笔记\JavaWeb视频教程_day8-资料源码\day08_res\tomcat\apache-tomcat-7.0.42\webapps\manager
+三月 04, 2019 7:28:13 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory G:\BaiduNetdiskDownload\JavaWeb视频教程\传智播客_超全面的JavaWeb视频教程-源码笔记\JavaWeb视频教程_day8-资料源码\day08_res\tomcat\apache-tomcat-7.0.42\webapps\ROOT
+三月 04, 2019 7:28:13 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 7:28:13 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 7:28:13 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 562 ms
+三月 04, 2019 7:34:04 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+三月 04, 2019 7:34:04 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 7:34:04 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 7:34:04 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 7:34:04 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 7:34:04 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 7:34:04 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 7:34:04 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
